@@ -152,25 +152,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyas19218&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas19218&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shreyas19218&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 LeetCode Statistics
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest)
-
-- ⭐ **LeetCode Rating:** 1690 (Top 13%)
-- 💡 **500+ Problems Solved** across LeetCode and GeeksforGeeks.
-
----
-
 # 🏅 Achievements & Leadership
 
 - 🥇 **Amazon ML Challenge 2025:** Team Rank 32.
@@ -182,7 +163,7 @@
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyas-snehal-3a70bb334/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyassnehal6@gmail.com)
 
